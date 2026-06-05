@@ -1,1 +1,5 @@
 # test update
+DevOps Capstone Project Practice File
+- Learning Linux shell scripting
+- Practicing Git commits
+- Building system monitoring automation
