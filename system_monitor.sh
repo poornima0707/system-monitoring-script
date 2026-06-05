@@ -5,7 +5,7 @@ echo "   SYSTEM MONITORING TOOL"
 echo "=============================="
 
 # Thresholds
-DISK_THRESHOLD=80
+DISK_THRESHOLD=1
 MEM_THRESHOLD=80
 LOG_FILE="system_alert.log"
 
